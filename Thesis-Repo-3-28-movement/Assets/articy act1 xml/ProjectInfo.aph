@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>1C0F905A0493EAD98067692D5776C946D548B16B15B983D021A740C6B8931354</Signature>
+  <Content>
+    <Project Guid="61d2af20-2ec1-435c-8178-55b98c14ca88">
+      <DisplayName Value="CapstoneGame Act 1"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="7243d309-bcf0-422a-bff3-5902d63bc132"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="638732802832233717"/>
+      <PartitionHash Value="B6E00EACA68815E2CEA75A8EF1D3BAFC6041C1DDF6D87F974934597E97F54BAE"/>
+      <SaveFileVersion Value="58"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9033fb496f9b4de408327384012c163d, type: 3}
+  m_Name: Memo 3
+  m_EditorClassIdentifier: 
+  itemName: NOTICE
+  icon: {fileID: 0}
+  description: "A reminder that any work you conduct for the Echelon Institute is
+    to be treated with the utmost secrecy- especially those modifying our Calcutron
+    Construct. The work we do is too valuable to have accidentally leaked to the
+    press. If anyone inquires about what you do, please reply with the standard \u201CI
+    work for a think tank.\u201D This is technically the truth, if you have any compunctions
+    about lying. If you believe any of your coworkers may be attempting to expose
+    our operations to public scrutiny, please alert your superiors at once. Remember
+    that you are working towards a better future."
+  price: 0
+  itemType: 3
+  maxStack: 1

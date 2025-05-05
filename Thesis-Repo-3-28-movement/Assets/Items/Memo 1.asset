@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9033fb496f9b4de408327384012c163d, type: 3}
+  m_Name: Memo 1
+  m_EditorClassIdentifier: 
+  itemName: Memo 1
+  icon: {fileID: 0}
+  description: "Memorandum: All Echelon Institute Employees RE: The 33rd Street Warehouse
+    \tAs you are all aware, we are closing up active operations at the 33rd Street
+    Warehouse. Operation 8450 has moved on to its next stage, and polling operations
+    have concluded. Thank you to everyone who made the long commute, we appreciate
+    the service. As a reminder, time spent commuting will NOT be compensated, and
+    all requests for such will be rejected. If you were operating out of the warehouse,
+    please contact your supervisor for instructions on your new workplace. As a reminder,
+    we will not accommodate work from home requests. The warehouse will continue
+    to be used to house backup copies of documents. Security will remain in place
+    until after the election, after which it will no longer be necessary. Thank you
+    all for your dedicated service. - The Board of Directors "
+  price: 0
+  itemType: 3
+  maxStack: 1

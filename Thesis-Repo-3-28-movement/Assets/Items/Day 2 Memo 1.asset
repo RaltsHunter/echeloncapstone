@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9033fb496f9b4de408327384012c163d, type: 3}
+  m_Name: Day 2 Memo 1
+  m_EditorClassIdentifier: 
+  itemName: Operation 8450
+  icon: {fileID: 0}
+  description: "As staff are likely aware, Operation 8450 is getting some unwanted
+    attention in the media. Polling indicates that certain aspects of 8450 are \u2018toxic\u2019
+    to large swathes of the voting public, so we\u2019d like to advise our affiliated
+    candidates to publicly distance themselves from the Operation, regardless of
+    their stance on the actual policies therein. After the election, it won\u2019t
+    really matter if they\u2019re caught lying, they will have been elected.  The
+    exception to this is our slate of anti-magic proposals; ad-buys can continue
+    on this topic. Polling conducted by our 33rd Street division indicates that we
+    can capitalize on public distrust of magic users and seize major gains, provided
+    they are accompanied by appropriately large ad expenditures. We have reason to
+    believe we can nail our opponents on this topic. If our candidates are accused
+    of bigotry, please use the prepared \u201Cjust raising community concerns\u201D
+    and \u201Csimply asking common sense questions\u201D rhetoric outlined in our
+    previous Talking Points Bulletin. Good Luck Team! -Echelon Institute PR "
+  price: 0
+  itemType: 3
+  maxStack: 1

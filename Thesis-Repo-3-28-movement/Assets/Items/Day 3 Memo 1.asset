@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9033fb496f9b4de408327384012c163d, type: 3}
+  m_Name: Day 3 Memo 1
+  m_EditorClassIdentifier: 
+  itemName: Transfer Orders
+  icon: {fileID: 0}
+  description: "Memorandum: All Echelon Institute Employees RE: Business District
+    Office \tIn recent days a number of raids have occurred on more than one Institute
+    facility. Our security forces have assessed the situation and have decided that
+    all operations not located within the home office are to be immediately redirected
+    to the satellite office in the business district. It is our belief that by consolidating
+    our resources there, we should be able to prevent further leaks until after the
+    election; this move includes any infiltrators we\u2019ve caught. We are unsure
+    if the raids we have experienced are the work of one organization or multiple
+    cells, but it is imperative that we not allow them to hinder our work. The moral
+    fabric of this country is on the line, and we are its protectors. Together, once
+    we\u2019ve won this election, we\u2019ll see Operation 8450 implemented, and
+    this country saved. God bless America. - The Board of Directors "
+  price: 0
+  itemType: 3
+  maxStack: 1
+  healAmount: 0

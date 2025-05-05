@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9033fb496f9b4de408327384012c163d, type: 3}
+  m_Name: Day 2 Memo 3
+  m_EditorClassIdentifier: 
+  itemName: Fiscal Impact Report
+  icon: {fileID: 0}
+  description: "Fiscal Impact Report: Operation 8450 It is unclear exactly how much
+    of an economic hit the nation will take if all recommendations in the Operation
+    are carried out in full. The curtailing of rights for magically capable individuals
+    in particular could have severe consequences, given that, despite their small
+    percentage of the population, they can be found at various levels in almost all
+    industries. PR recommends messaging on this potential disruption be framed as
+    \u201Ctemporary economic hardship.\u201D While this economic downturn will be
+    disruptive to the average citizen, our donor class will greatly benefit, and
+    we firmly recommended that the tenets of Operation 8450 be carried out in full. "
+  price: 0
+  itemType: 3
+  maxStack: 1

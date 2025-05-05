@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/PlayerRoomA1S1.unity
+    guid: 13c16e5b95910af4db6a0484df68c17e
+  - enabled: 1
+    path: Assets/Scenes/Newspaper.unity
+    guid: 81ae424952b44784fb40e86ab57b3e3c
+  - enabled: 1
+    path: Assets/Scenes/PlayerRoomA1S1TEST.unity
+    guid: 8385d72f2139e9745a10587b60162fcf
+  - enabled: 1
+    path: Assets/Scenes/PlayerRoomA1S2.unity
+    guid: 13c5a295fbe9e44488b9cf11838301e3
+  - enabled: 1
+    path: Assets/Scenes/outsideWarehouse.unity
+    guid: 1c5206684118b2e43b77d5b41757afc3
+  - enabled: 1
+    path: Assets/Scenes/WH Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PlayerRoomA1S3.unity
+    guid: 5bd12f4f3c0918144b765e004a25dedc
+  - enabled: 1
+    path: Assets/Scenes/outsideWarehouse 2.unity
+    guid: 95181fc2ffc3c3a4c97c9edadd9a869e
+  - enabled: 1
+    path: Assets/Scenes/WH Main 2.unity
+    guid: e4120d65fd56fbc4faf8f735abd66533
+  - enabled: 1
+    path: Assets/Scenes/PlayerRoomHUB.unity
+    guid: df8110f5f94174f4995460d82693ae38
+  - enabled: 1
+    path: Assets/Scenes/WH Day 2.unity
+    guid: 7e9f8e73544b4f44490e7713a1eeac42
+  - enabled: 1
+    path: Assets/Scenes/PlayerRoomA1S4.unity
+    guid: 1f417a1a4c35a4e49a17efa24f153827
+  - enabled: 1
+    path: Assets/Scenes/outsideWarehouse3.unity
+    guid: 32ff29cb842874f46a9c35f08a2dff3b
+  - enabled: 1
+    path: Assets/Scenes/WH Day 3.unity
+    guid: b0a74096d053cd640bea51f0f46258d2
+  - enabled: 1
+    path: Assets/Scenes/PlayerRoomA1S5.unity
+    guid: 0a592fb34825f544ca85a4ab7150e885
+  m_configObjects: {}

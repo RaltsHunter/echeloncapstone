@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9033fb496f9b4de408327384012c163d, type: 3}
+  m_Name: Day 3 Memo 3
+  m_EditorClassIdentifier: 
+  itemName: Insurance Policy
+  icon: {fileID: 0}
+  description: "Hey James, Unfortunately, given the off-the-books nature of the warehouse,
+    I\u2019m afraid our claims assessor can\u2019t do anything about the stolen and/or
+    destroyed goods from there, as they were not properly insured. The Institute
+    is gonna have to eat the costs of those lost items. I know some heads are probably
+    gonna roll over this, and I\u2019m really sorry if yours is one of them, but
+    there\u2019s simply nothing we can do over here at legal. Next time, maybe the
+    Board of Directors will remember we\u2019re a think tank and not a spy organization.
+    We do things above board for a reason. -Pete Peter Holmes, Legal "
+  price: 0
+  itemType: 3
+  maxStack: 1
+  healAmount: 0
